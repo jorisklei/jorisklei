@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+  - 🖥️ I mainly build machine learning projects in `Python` and `R`
+      - my side projects also involve `SQL` and `Lua`
+  - 🛠️ I have an interest in Metaheuristics
+  - I enjoy: lifting weights, reading, games... and programming 😉
+  - 👨‍🎓 Master in Finance & Investments and Business Information Management
 <!--
 **jorisklei/jorisklei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
